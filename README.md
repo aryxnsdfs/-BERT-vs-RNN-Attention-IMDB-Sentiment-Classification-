@@ -23,9 +23,10 @@ We also visualize their attention maps to understand how the models focus on dif
 
 ### RNN + Attention
 
+<img width="1600" height="300" alt="rnn" src="https://github.com/user-attachments/assets/ff949287-d0b0-448d-a99a-423e606dbc36" />
 
 ### BERT Attention (Layer 0, Head 0)
-(<img width="1000" height="800" alt="bert" src="https://github.com/user-attachments/assets/737ac1d9-95e9-4103-bfd5-d1d7081e7e0f" />
+<img width="1000" height="800" alt="bert" src="https://github.com/user-attachments/assets/737ac1d9-95e9-4103-bfd5-d1d7081e7e0f" />
 
 
 ## 🚀 Usage
